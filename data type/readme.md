@@ -14,7 +14,7 @@
 
 ##### 🔥 List
 
-> List<T> list
+> List\<T\> list
 
 ```dart
     void main() {
